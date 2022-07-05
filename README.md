@@ -26,7 +26,7 @@ See the [JavaScript language guide for CircleCI here](https://circleci.com/docs/
 
 4. `npm run watch:test` - start the test runner with watch mode
 
-5. `npm run cover` - generates test coverage report
+5. `npm run cover` - generates test coverage report 
 
 6. `npm run lint` - runs linter to check for lint errors
 
